@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @CaterpillarDreaming
-- 👀 I’m interested in all things funky
-- 🌱 I’m currently learning javaScript, HTML & CSS
-- 💞️ I’m looking to collaborate on projects that help people
+- 👋 Hi, I’m Andrew Molten.
+- 👀 Full-Stack Developer, passionate about building things that make the world a better place.
+- 🙌 Skilled with TypeScript, React, JS, HTML, CSS, Node.js, Git, SQlite/Knex & learning quickly.
+- 🌱 I live in Christchurch NZ, with my wife & daughter.
+- 💞️ We love getting outside & exploring. We speak English & German at home.
 - 📫 How to reach me andrewmolten23@gmail.com
 
 <!---
